@@ -3,10 +3,13 @@ I am a ***software engineer*** with a passion for Full-Stack Development, Operat
 <details>
 	<summary>CLICK ME</summary>
 	<p>
+		
 		#### yes, even hidden code blocks!
+		
 		```python
 		print("hello world!")
 		```
+		
 	</p>
 </details>
 
