@@ -11,7 +11,7 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
-	<li>Purdue’s C-Design Laboratory</li>
+	<li><h4>Purdue’s C-Design Laboratory</h4></li>
 		<ul>
     		<li>Developed a deep learning multi-stage framework that uses geometry changes on a hand surface and focuses on learning interactions between a primary and assistive hand/object for hand action recognition by using PyTorch.</li>
     		<li>Implemented the YOLOv4 network to locate the primary and assistive hand/object for the localization stage.</li>
