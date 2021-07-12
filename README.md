@@ -7,11 +7,11 @@ Feel free to reach out in case you want to get in touch:
 	<a href="mailto:achinnak@purdue.edu"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
-<details><summary><h4>Research Experience</h4></summary>
+<details><summary>Research Experience</summary>
 <p>
 
 <ul>
-	<li><h5>Purdue’s C-Design Laboratory</h5></li>
+	<li><h4>Purdue’s C-Design Laboratory</h4></li>
 		<ul>
     		<li>Developed a deep learning multi-stage framework that uses geometry changes on a hand surface and focuses on learning interactions between a primary and assistive hand/object for hand action recognition by using PyTorch.</li>
     		<li>Implemented the YOLOv4 network to locate the primary and assistive hand/object for the localization stage.</li>
