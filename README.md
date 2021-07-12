@@ -7,6 +7,16 @@ Feel free to reach out in case you want to get in touch:
 	<a href="mailto:achinnak@purdue.edu"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 <!--
 **The-Indian-Chinna/The-Indian-Chinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
