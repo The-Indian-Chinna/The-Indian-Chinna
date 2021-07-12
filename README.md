@@ -11,10 +11,11 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
-	<li>Coffee</li>
-	  	<ul>
-    		<li>Sub 1</li>
-    		<li>Sub 2</li>
+	<li>Purdue’s C-Design Laboratory</li>
+		<ul>
+    		<li>Developed a deep learning multi-stage framework that uses geometry changes on a hand surface and focuses on learning interactions between a primary and assistive hand/object for hand action recognition by using PyTorch.</li>
+    		<li>Implemented the YOLOv4 network to locate the primary and assistive hand/object for the localization stage.</li>
+			<li>Integrated ResNet18 to classify the located objects which allows hand action predictions to be contextualized.</li>
   		</ul>
   <li>Tea</li>
   <li>Milk</li>
