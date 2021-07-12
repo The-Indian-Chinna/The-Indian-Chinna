@@ -11,14 +11,23 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
-	<li><h4>Purdue’s C-Design Laboratory</h4></li>
+	<li><h4>Purdue’s C-Design Laboratory, Machine Learning Engineer</h4></li>
 		<ul>
     		<li>Developed a deep learning multi-stage framework that uses geometry changes on a hand surface and focuses on learning interactions between a primary and assistive hand/object for hand action recognition by using PyTorch.</li>
     		<li>Implemented the YOLOv4 network to locate the primary and assistive hand/object for the localization stage.</li>
 			<li>Integrated ResNet18 to classify the located objects which allows hand action predictions to be contextualized.</li>
   		</ul>
-  <li>Tea</li>
-  <li>Milk</li>
+	<li><h4>Purdue’s CAM2 COVID-19 Team, Software Engineer</h4></li>
+		<ul>
+    		<li>Employed computer vision methods such as scene classification, crowd density estimation and distance estimation on a system of 30,000 cameras to quantify social distancing effectiveness by using TensorFlow 2.</li>
+    		<li>Created an interactive website to showcase CAM 2’s data, analysis, and academic papers with React.js and Flask.</li>
+			<li>Designed a system to validate .5 TB of image data per week by identifying dead or blurry cameras with OpenCV.</li>
+  		</ul>
+	<li><h4>Purdue’s HELPS Laboratory, Team Leader</h4></li>
+		<ul>
+    		<li>Developed a Flask based GitHub Bot which automates parts of code review through functionality ranging from managing user and issue dependencies to recognizing and ranking redundant and logically defected code with NLP.</li>
+    		<li>Led a team of 10 software engineers in developing and releasing a bot, implemented a system for collecting user data to allow us to devise future updates, built a product website and submitted a research paper to JOSS.</li>
+  		</ul>
 </ul> 
 
 </p>
