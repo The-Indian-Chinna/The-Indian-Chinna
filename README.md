@@ -11,6 +11,7 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
+	<li><h4>Capital One, Software Engineering Intern</h4></li>
 	<li><h4>GoogleML x Purdue, TensorFlow Developer</h4></li>
 		<ul>
     		<li>Developing deep learning computer vision models from research papers with TensorFlow 2, deploying these models into Google’s Model Garden and writing TensorFlow 2 guidelines within a paid Purdue team sponsored by Google.</li>
@@ -25,7 +26,6 @@ Feel free to reach out in case you want to get in touch:
 		<ul>
     		<li>Constructed several stored procedures, functions and triggers for various REST APIs in an enterprise application for the NYC Department of Design and Construction by utilizing MS SQL and .NET Core MVC.</li>
     		<li>Built both a frontend and backend of 5 configuration screens found in an administrator portal for an enterprise application for NYC Housing Preservation and Development by utilizing MS SQL, Angular 8 and .NET Core MVC.</li>
-			<li></li>
   		</ul>
 </ul> 
 
