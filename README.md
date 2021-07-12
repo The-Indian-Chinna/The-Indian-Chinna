@@ -7,6 +7,31 @@ Feel free to reach out in case you want to get in touch:
 	<a href="mailto:achinnak@purdue.edu"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
+<details><summary>Work Experience</summary>
+<p>
+
+<ul>
+	<li><h4>GoogleML x Purdue, TensorFlow Developer</h4></li>
+		<ul>
+    		<li>Developing deep learning computer vision models from research papers with TensorFlow 2, deploying these models into Google’s Model Garden and writing TensorFlow 2 guidelines within a paid Purdue team sponsored by Google.</li>
+    		<li>Building ETL data pipelines for several image datasets and the backbone infrastructures for each neural network.</li>
+			<li>Created and unit tested the Notebook Image Annotation Tool found in the TensorFlow 2 Object Detection API.</li>
+  		</ul>
+	<li><h4>Charles Schwab, Software Engineering Intern</h4></li>
+		<ul>
+    		<li>Developed and deployed several REST APIs for various cloud-based application backends by using Java, MongoDB, Spring, Node.js, Bamboo and Cloud Foundry in a SCRUM development team working with internal cloud services.</li>
+  		</ul>
+	<li><h4>Prutech Solutions, Software Engineering Intern</h4></li>
+		<ul>
+    		<li>Constructed several stored procedures, functions and triggers for various REST APIs in an enterprise application for the NYC Department of Design and Construction by utilizing MS SQL and .NET Core MVC.</li>
+    		<li>Built both a frontend and backend of 5 configuration screens found in an administrator portal for an enterprise application for NYC Housing Preservation and Development by utilizing MS SQL, Angular 8 and .NET Core MVC.</li>
+			<li></li>
+  		</ul>
+</ul> 
+
+</p>
+</details>
+
 <details><summary>Research Experience</summary>
 <p>
 
