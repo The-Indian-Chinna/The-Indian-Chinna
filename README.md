@@ -60,14 +60,12 @@ Feel free to reach out in case you want to get in touch:
 
 <details><summary>Written Work</summary>
 <p>
-
-<ul>
 	<a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors</h4></a>
 	<h4>First Person View Hand Type Recognition and Hand Action Recognition</h4>
 	<a href="https://figshare.com/articles/preprint/Exemplars_for_Machine_Learning_Towards_SoftwareEngineering_and_Reproducibility/13160654?file=25312526"><h4>Exemplars for Machine Learning: Towards Software Engineering and Reproducibility</h4></a>
 	<a href="https://arxiv.org/pdf/2008.12363.pdf"><h4>Analyzing Worldwide Social Distancing through Large-Scale Computer Vision</h4></a>
-</ul> 
-
+</p>
+</details>
 <!--
 **The-Indian-Chinna/The-Indian-Chinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
