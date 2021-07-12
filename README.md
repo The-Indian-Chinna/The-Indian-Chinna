@@ -10,11 +10,11 @@ Feel free to reach out in case you want to get in touch:
 <details><summary>CLICK ME</summary>
 <p>
 
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
 </p>
 </details>
