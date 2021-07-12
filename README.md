@@ -7,11 +7,15 @@ Feel free to reach out in case you want to get in touch:
 	<a href="mailto:achinnak@purdue.edu"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
-<details><summary>CLICK ME</summary>
+<details><summary>Research Experience</summary>
 <p>
 
 <ul>
-  <li>Coffee</li>
+	<li>Coffee</li>
+	  	<ul>
+    		<li>Sub 1</li>
+    		<li>Sub 2</li>
+  		</ul>
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
