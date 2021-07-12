@@ -8,13 +8,11 @@ Feel free to reach out in case you want to get in touch:
 </p>
 
 <details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <summary><h3>Research Experience</h3></summary>
+  * Purdue’s C-Design Laboratory
+			  ❑ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developed a deep learning multi-stage framework that uses geometry changes on a hand surface and focuses on learning interactions between a primary and assistive hand/object for hand action recognition by using PyTorch.
+			  ❑ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented the YOLOv4 network to locate the primary and assistive hand/object for the localization stage.
+			  ❑ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Integrated ResNet18 to classify the located objects which allows hand action predictions to be contextualized.
 </details>
 
 <!--
