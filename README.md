@@ -1,4 +1,7 @@
 ## Hi, my name is Akhil Chinnakotla 👋
+
+![:eyes:](githubFront.gif)
+
 I am a ***software engineer*** with a passion for Full-Stack Development, Operating Systems,  as well as Machine Learning. I constantly explore these areas of interest by engaging in ***project-based learning*** through professional, academic and personal avenues. Currently I am pursuing a Bachelors of Science in ***Computer Engineering at Purdue University*** with a more software focused course selection. In my free time I like to experiment with New Frameworks and Libraries, read CS related Medium Articles, ***vibe to Rap and R&B***, as well as perusing the popular subreddits r/MemeEconomy and r/ProgrammerHumor. You can also visit my website [here](https://the-indian-chinna.github.io/).
 
 Feel free to reach out in case you want to get in touch:
