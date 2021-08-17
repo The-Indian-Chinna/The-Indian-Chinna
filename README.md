@@ -2,7 +2,9 @@
 
 ![:eyes:](githubFront.gif)
 
-I am a ***software engineer*** with a passion for Full-Stack Development, Operating Systems,  as well as Machine Learning. I constantly explore these areas of interest by engaging in ***project-based learning*** through professional, academic and personal avenues. Currently I am pursuing a Bachelors of Science in ***Computer Engineering at Purdue University*** with a more software focused course selection. In my free time I like to experiment with New Frameworks and Libraries, read CS related Medium Articles, ***vibe to Rap and R&B***, as well as perusing the popular subreddits r/MemeEconomy and r/ProgrammerHumor. You can also visit my website [here](https://the-indian-chinna.github.io/).
+I’m a ***Software Engineer*** working to better understand how to expand the use of Deep Learning and Computer Vision in consumer products by making this technology more available to the average user as well as integrating this technology into the projects I am developing. My expertise includes Deep Learning, Operating Systems, and Full-Stack Development which I constantly utilize through professional, academic, and personal projects. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Specific fields of interest include Computer Vision, FinTech, and Smart Home Devices. 
+
+Currently I am pursuing a Bachelors of Science in ***Computer Engineering at Purdue University*** with a more software focused course selection.
 
 Feel free to reach out in case you want to get in touch:
 <p align='center'>
