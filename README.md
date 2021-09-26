@@ -12,7 +12,7 @@ Feel free to reach out in case you want to get in touch:
 	<a href="mailto:achinnak@purdue.edu"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
-<details><summary>Work Experience</summary>
+<details><summary> :briefcase: Work Experience :briefcase: </summary>
 <p>
 
 <ul>
@@ -47,7 +47,7 @@ MVC in an enterprise application for the NYC Department of Housing Preservation 
 </p>
 </details>
 
-<details><summary>Research Experience</summary>
+<details><summary> :microscope: Research Experience :microscope: </summary>
 <p>
 
 <ul>
@@ -75,7 +75,7 @@ defected code with NLP and automated collection of user data to allow us to driv
 </p>
 </details>
 
-<details><summary>Written Work</summary>
+<details><summary> :paperclip: Written Work :paperclip: </summary>
 <p>
 <ul>
 <li><a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors</h4></a></li>
@@ -87,7 +87,7 @@ defected code with NLP and automated collection of user data to allow us to driv
 </ul> 
 </p>
 </details>
-<details><summary>Awards</summary>
+<details><summary> :star: Awards :star: </summary>
 <p>
 <ul>
 	<li><a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>Google Open Source Peer Bonus Award</h4></a></li>
