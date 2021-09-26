@@ -17,6 +17,13 @@ Feel free to reach out in case you want to get in touch:
 
 <ul>
 	<li><h4>Capital One, Software Engineering Intern</h4></li>
+		<ul>
+    			<li>Re-designed, developed, and deployed the Secured Card Deposit Portal with React.js, Node.js, Spring, and AWS.</li>
+    			<li>Developed features to improve customer experience/retention using UX testing feedback and Business Analysis.</li>
+			<li>Implemented snapshot & ATDD testing to validate functionality with Cypress, Cucumber, and Jest.</li>
+			<li>Built a Spring based Street Address Validation API to alert users when inputting a nonexistent street address.</li>
+			<li>Automated Secured Card Deposit Portal deployment with a CI/CD pipeline using Jenkins and AWS CloudFront.</li>
+  		</ul>
 	<li><h4>GoogleML x Purdue, TensorFlow Developer</h4></li>
 		<ul>
     			<li>Developing and deploying deep learning computer vision models into Google’s Model Garden with TensorFlow 2 and writing TensorFlow 2 guidelines/technical documents within a paid special interest team sponsored by Google.</li>
@@ -25,12 +32,15 @@ Feel free to reach out in case you want to get in touch:
   		</ul>
 	<li><h4>Charles Schwab, Software Engineering Intern</h4></li>
 		<ul>
-    		<li>Developed and deployed several REST APIs for various cloud-based application backends by using Java, MongoDB, Spring, Node.js, Bamboo and Cloud Foundry in a SCRUM development team working with internal cloud services.</li>
+    			<li>Developed and deployed several REST APIs for various cloud-based application by using MongoDB, Spring,
+Node.js, Bamboo, Mockito and Pivotal Cloud Foundry with the internal cloud services team.</li>
   		</ul>
 	<li><h4>Prutech Solutions, Software Engineering Intern</h4></li>
 		<ul>
-    		<li>Constructed several stored procedures, functions and triggers for various REST APIs in an enterprise application for the NYC Department of Design and Construction by utilizing MS SQL and .NET Core MVC.</li>
-    		<li>Built both a frontend and backend of 5 configuration screens found in an administrator portal for an enterprise application for NYC Housing Preservation and Development by utilizing MS SQL, Angular 8 and .NET Core MVC.</li>
+    		<li>Constructed several stored procedures, functions and triggers for various REST APIs by utilizing MS SQL and .NET
+Core MVC in an enterprise application for the NYC Department of Design and Construction.</li>
+    		<li>Built several full stack administrator portal configuration screens by utilizing MS SQL, Angular and .NET Core
+MVC in an enterprise application for the NYC Department of Housing Preservation and Development.</li>
   		</ul>
 </ul> 
 
