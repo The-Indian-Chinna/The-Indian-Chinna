@@ -77,13 +77,13 @@ defected code with NLP and automated collection of user data to allow us to driv
 
 <details><summary>Written Work</summary>
 <p>
-<li><a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors</h4></a><li>
+<a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors</h4></a>
 
-<li><a href="https://figshare.com/articles/preprint/Exemplars_for_Machine_Learning_Towards_SoftwareEngineering_and_Reproducibility/13160654?file=25312526"><h4>Exemplars for Machine Learning: Towards Software Engineering and Reproducibility</h4></a><li>
+<a href="https://figshare.com/articles/preprint/Exemplars_for_Machine_Learning_Towards_SoftwareEngineering_and_Reproducibility/13160654?file=25312526"><h4>Exemplars for Machine Learning: Towards Software Engineering and Reproducibility</h4></a>
 
-<li><h4>First Person View Hand Type Recognition and Hand Action Recognition</h4><li>
+<h4>First Person View Hand Type Recognition and Hand Action Recognition</h4>
 	
-<li><a href="https://arxiv.org/pdf/2008.12363.pdf"><h4>Analyzing Worldwide Social Distancing through Large-Scale Computer Vision</h4></a><li>
+<a href="https://arxiv.org/pdf/2008.12363.pdf"><h4>Analyzing Worldwide Social Distancing through Large-Scale Computer Vision</h4></a>
 
 </p>
 </details>
