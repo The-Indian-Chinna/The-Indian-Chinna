@@ -19,9 +19,9 @@ Feel free to reach out in case you want to get in touch:
 	<li><h4>Capital One, Software Engineering Intern</h4></li>
 	<li><h4>GoogleML x Purdue, TensorFlow Developer</h4></li>
 		<ul>
-    		<li>Developing deep learning computer vision models from research papers with TensorFlow 2, deploying these models into Google’s Model Garden and writing TensorFlow 2 guidelines within a paid Purdue team sponsored by Google.</li>
-    		<li>Building ETL data pipelines for several image datasets and the backbone infrastructures for each neural network.</li>
-			<li>Created and unit tested the Notebook Image Annotation Tool found in the TensorFlow 2 Object Detection API.</li>
+    			<li>Developing and deploying deep learning computer vision models into Google’s Model Garden with TensorFlow 2 and writing TensorFlow 2 guidelines/technical documents within a paid special interest team sponsored by Google.</li>
+    			<li>Leading a team of 6 engineers in developing several ETL data pipelines and infrastructures for both of the TensorFlow Model Garden’s YOLO (v1-v5) object detection network and Efficentnet image classification network.</li>
+			<li>Created the Google Colab notebook image annotation tool found in the TensorFlow 2 Object Detection API.</li>
   		</ul>
 	<li><h4>Charles Schwab, Software Engineering Intern</h4></li>
 		<ul>
