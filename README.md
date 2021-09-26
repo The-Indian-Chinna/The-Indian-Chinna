@@ -87,7 +87,7 @@ defected code with NLP and automated collection of user data to allow us to driv
 </ul> 
 </p>
 </details>
-<details><summary>Written Work</summary>
+<details><summary>Awards</summary>
 <p>
 <ul>
 	<li><a href="https://arxiv.org/pdf/2107.00821.pdf"><h4>Google Open Source Peer Bonus Award</h4></a></li>
