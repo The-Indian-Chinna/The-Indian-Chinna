@@ -4,7 +4,7 @@
 
 I’m a ***Software Engineer*** working to better understand how to expand the use of Deep Learning and Computer Vision in consumer products by making this technology more available to the average user as well as integrating this technology into the projects I am developing. My expertise includes Deep Learning, Operating Systems, and Full-Stack Development which I constantly utilize through professional, academic, and personal projects. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Specific fields of interest include Computer Vision, FinTech, and Smart Home Devices. 
 
-I received my Bachelors of Science in ***Computer Science at Purdue University*** with a more software focused course selection.
+I received my Bachelors of Science in ***Computer Science at Purdue University***.
 
 Feel free to reach out in case you want to get in touch:
 <p align='center'>
