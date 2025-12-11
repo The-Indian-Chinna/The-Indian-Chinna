@@ -16,7 +16,7 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
-	<li><h4>Capital One, Senior Software Engineer</h4></li>
+	<li><h4>Capital One, Senior Software Engineer (2022 - Current)</h4></li>
 		<ul>
     		<li>Modernizing ACH processes / archetecture, primarily focusing on developing the Payments Reconciliation, Validation and Clearing House Workflow with Spring, Go and React.</li>
     		<li>Designed, developed and productionized a vulnerability alerting tool integrated with Capital One's Slack using Python and React.</li>
