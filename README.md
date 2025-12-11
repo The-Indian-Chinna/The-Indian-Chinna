@@ -4,7 +4,7 @@
 
 I’m a ***Software Engineer*** working to better understand how to expand the use of Deep Learning and Computer Vision in consumer products by making this technology more available to the average user as well as integrating this technology into the projects I am developing. My expertise includes Deep Learning, Operating Systems, and Full-Stack Development which I constantly utilize through professional, academic, and personal projects. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Specific fields of interest include Computer Vision, FinTech, and Smart Home Devices. 
 
-I received my Bachelors of Science in ***Computer Science at Purdue University***.
+I received my Bachelors of Science in ***Computer Science at Purdue University***. I am currently enrolled in the Online Computer Science Masters program at ***Georgia Insititute of Technology***. 
 
 Feel free to reach out in case you want to get in touch:
 <p align='center'>
@@ -16,6 +16,12 @@ Feel free to reach out in case you want to get in touch:
 <p>
 
 <ul>
+	<li><h4>Capital One, Senior Software Engineer</h4></li>
+		<ul>
+    		<li>Modernizing ACH processes / archetecture, primarily focusing on developing the Payments Reconciliation, Validation and Clearing House Workflow with Spring, Go and React.</li>
+    		<li>Designed, developed and productionized a vulnerability alerting tool integrated with Capital One's Slack using Python and React.</li>
+			<li>Instructed a 8 week AWS Bootcamp Course for Entry Level / New Grad Software Engineers which went over material required for the Solutions Architect Exam.</li>
+  		</ul>
 	<li><h4>Capital One, Software Engineering Intern</h4></li>
 		<ul>
     			<li>Re-designed, developed, and deployed the Secured Card Deposit Portal with React.js, Node.js, Spring, and AWS.</li>
